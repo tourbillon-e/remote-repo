@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="Page-1" id="XjlaKi_G5QUQdDYxjjfy">
-    <mxGraphModel dx="4017" dy="884" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3468" dy="1061" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -640,6 +640,74 @@
         </mxCell>
         <mxCell id="oge0r_RtXFkIhB55U6nU-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;账户管理&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="122" x="-260" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-10" edge="1" parent="1" source="TKwxfoZOMUR3z1D_IjRw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TKwxfoZOMUR3z1D_IjRw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;arcSize=42;" value="开始" vertex="1">
+          <mxGeometry height="31" width="89" x="1775" y="728" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-12" edge="1" parent="1" source="TKwxfoZOMUR3z1D_IjRw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TKwxfoZOMUR3z1D_IjRw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="&amp;nbsp;选择字帖&lt;br&gt;（楷书/行书/草书/隶书）" vertex="1">
+          <mxGeometry height="37" width="127" x="1756" y="782" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-13" edge="1" parent="1" source="TKwxfoZOMUR3z1D_IjRw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TKwxfoZOMUR3z1D_IjRw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="&amp;nbsp;调整画布参数&lt;br&gt;（笔刷/颜色/透明度）" vertex="1">
+          <mxGeometry height="37" width="111" x="1764" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="在画布上书写临摹" vertex="1">
+          <mxGeometry height="37" width="111" x="1764" y="893" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-15" edge="1" parent="1" source="TKwxfoZOMUR3z1D_IjRw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="TKwxfoZOMUR3z1D_IjRw-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1754" y="978" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-16" edge="1" parent="1" source="TKwxfoZOMUR3z1D_IjRw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="TKwxfoZOMUR3z1D_IjRw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="进行何种操作?" vertex="1">
+          <mxGeometry height="57" width="97" x="1771" y="949" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-18" edge="1" parent="1" source="TKwxfoZOMUR3z1D_IjRw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TKwxfoZOMUR3z1D_IjRw-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1754" y="1068" />
+              <mxPoint x="1821" y="1068" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="撤销" vertex="1">
+          <mxGeometry height="31" width="76" x="1716" y="1018" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-17" edge="1" parent="1" source="TKwxfoZOMUR3z1D_IjRw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TKwxfoZOMUR3z1D_IjRw-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1896" y="1068" />
+              <mxPoint x="1821" y="1068" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="清空画布" vertex="1">
+          <mxGeometry height="31" width="76" x="1858" y="1017" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-20" edge="1" parent="1" source="TKwxfoZOMUR3z1D_IjRw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TKwxfoZOMUR3z1D_IjRw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="保存作品&lt;br&gt;（导出PNG）" vertex="1">
+          <mxGeometry height="37" width="90.5" x="1776" y="1083" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="结束" vertex="1">
+          <mxGeometry height="37" width="90.5" x="1775" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="TKwxfoZOMUR3z1D_IjRw-14" edge="1" parent="1" source="TKwxfoZOMUR3z1D_IjRw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="TKwxfoZOMUR3z1D_IjRw-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
