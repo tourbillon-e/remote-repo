@@ -655,10 +655,10 @@
         <mxCell id="TKwxfoZOMUR3z1D_IjRw-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;退出登录&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="132" width="33" x="586" y="1598" as="geometry" />
         </mxCell>
-        <mxCell id="w-ehUQSuPCb-fLowAPGa-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="w-ehUQSuPCb-fLowAPGa-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="用户" vertex="1">
           <mxGeometry height="50" width="116" x="-861" y="953" as="geometry" />
         </mxCell>
-        <mxCell id="w-ehUQSuPCb-fLowAPGa-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;用户ID&lt;/font&gt;" vertex="1">
+        <mxCell id="w-ehUQSuPCb-fLowAPGa-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;font&gt;用户ID&lt;/font&gt;" vertex="1">
           <mxGeometry height="51" width="121" x="-1115" y="902" as="geometry" />
         </mxCell>
         <mxCell id="w-ehUQSuPCb-fLowAPGa-10" edge="1" parent="1" source="w-ehUQSuPCb-fLowAPGa-1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="w-ehUQSuPCb-fLowAPGa-2" value="">
@@ -667,13 +667,13 @@
             <mxPoint x="-1135" y="1047" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w-ehUQSuPCb-fLowAPGa-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="用户名" vertex="1">
+        <mxCell id="w-ehUQSuPCb-fLowAPGa-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="昵称" vertex="1">
           <mxGeometry height="51" width="121" x="-1007" y="797" as="geometry" />
         </mxCell>
-        <mxCell id="w-ehUQSuPCb-fLowAPGa-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="w-ehUQSuPCb-fLowAPGa-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="用户名" vertex="1">
           <mxGeometry height="51" width="122" x="-1117" y="957" as="geometry" />
         </mxCell>
-        <mxCell id="_ThlIqK83L4uwbtYeZZm-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="_ThlIqK83L4uwbtYeZZm-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="密码" vertex="1">
           <mxGeometry height="51" width="122" x="-1117" y="1015" as="geometry" />
         </mxCell>
         <mxCell id="_ThlIqK83L4uwbtYeZZm-3" edge="1" parent="1" source="_ThlIqK83L4uwbtYeZZm-2" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;" value="">
@@ -682,13 +682,13 @@
             <mxPoint x="-860" y="978" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ThlIqK83L4uwbtYeZZm-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="_ThlIqK83L4uwbtYeZZm-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="学习课程数" vertex="1">
           <mxGeometry height="51" width="122" x="-994" y="1113" as="geometry" />
         </mxCell>
-        <mxCell id="_ThlIqK83L4uwbtYeZZm-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="_ThlIqK83L4uwbtYeZZm-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="发帖数" vertex="1">
           <mxGeometry height="51" width="122" x="-868" y="1115" as="geometry" />
         </mxCell>
-        <mxCell id="_ThlIqK83L4uwbtYeZZm-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="_ThlIqK83L4uwbtYeZZm-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="创建时间" vertex="1">
           <mxGeometry height="51" width="122" x="-741" y="1113" as="geometry" />
         </mxCell>
         <mxCell id="_ThlIqK83L4uwbtYeZZm-7" edge="1" parent="1" source="_ThlIqK83L4uwbtYeZZm-4" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" target="w-ehUQSuPCb-fLowAPGa-1" value="">
@@ -721,10 +721,10 @@
             <mxPoint x="-609" y="844" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ThlIqK83L4uwbtYeZZm-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="用户名" vertex="1">
-          <mxGeometry height="51" width="121" x="-863" y="799" as="geometry" />
+        <mxCell id="_ThlIqK83L4uwbtYeZZm-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="邮箱" vertex="1">
+          <mxGeometry height="51" width="126" x="-869" y="799" as="geometry" />
         </mxCell>
-        <mxCell id="_ThlIqK83L4uwbtYeZZm-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="用户名" vertex="1">
+        <mxCell id="_ThlIqK83L4uwbtYeZZm-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="头像" vertex="1">
           <mxGeometry height="51" width="121" x="-731" y="799" as="geometry" />
         </mxCell>
         <mxCell id="_ThlIqK83L4uwbtYeZZm-16" edge="1" parent="1" source="_ThlIqK83L4uwbtYeZZm-14" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="w-ehUQSuPCb-fLowAPGa-1" value="">
@@ -739,13 +739,13 @@
             <mxPoint x="-554" y="959" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ThlIqK83L4uwbtYeZZm-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;用户ID&lt;/font&gt;" vertex="1">
+        <mxCell id="_ThlIqK83L4uwbtYeZZm-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;font&gt;角色&lt;/font&gt;" vertex="1">
           <mxGeometry height="51" width="121" x="-642" y="901" as="geometry" />
         </mxCell>
-        <mxCell id="_ThlIqK83L4uwbtYeZZm-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="_ThlIqK83L4uwbtYeZZm-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="个人简介" vertex="1">
           <mxGeometry height="51" width="122" x="-644" y="956" as="geometry" />
         </mxCell>
-        <mxCell id="_ThlIqK83L4uwbtYeZZm-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="_ThlIqK83L4uwbtYeZZm-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="作品数" vertex="1">
           <mxGeometry height="51" width="122" x="-644" y="1014" as="geometry" />
         </mxCell>
         <mxCell id="_ThlIqK83L4uwbtYeZZm-22" edge="1" parent="1" source="w-ehUQSuPCb-fLowAPGa-1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="_ThlIqK83L4uwbtYeZZm-19" value="">
@@ -764,6 +764,24 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-604" y="1009" as="sourcePoint" />
             <mxPoint x="-554" y="959" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ThlIqK83L4uwbtYeZZm-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="更新时间" vertex="1">
+          <mxGeometry height="51" width="122" x="-1123" y="1112" as="geometry" />
+        </mxCell>
+        <mxCell id="_ThlIqK83L4uwbtYeZZm-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" value="逻辑删除" vertex="1">
+          <mxGeometry height="51" width="122" x="-613" y="1114" as="geometry" />
+        </mxCell>
+        <mxCell id="_ThlIqK83L4uwbtYeZZm-27" edge="1" parent="1" source="_ThlIqK83L4uwbtYeZZm-25" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="w-ehUQSuPCb-fLowAPGa-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-673" y="1012" as="sourcePoint" />
+            <mxPoint x="-623" y="962" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ThlIqK83L4uwbtYeZZm-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_ThlIqK83L4uwbtYeZZm-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-802" y="1004" as="sourcePoint" />
+            <mxPoint x="-623" y="962" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
